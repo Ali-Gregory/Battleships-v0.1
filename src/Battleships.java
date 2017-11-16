@@ -5,9 +5,10 @@ public class Battleships {
 		// TODO Auto-generated method stub
 		//Comment to checkgit setup
 		
-		board newBoard = new board();
+		board newBoard = new board(3);
+		newBoard.drawBoard();
 		
-		newBoard.createBoard();
+		//newBoard.createBoard();
 
 	}
 	
