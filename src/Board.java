@@ -1,10 +1,10 @@
 //import static System;
 
-public class board {
+public class Board {
 	
 	char[][] boardArray;
 
-	public board(int size) {
+	public Board(int size) {
 		boardArray = new char[size + 2][size + 2];
 		
 		//Populate Array with row/column numbers and styling

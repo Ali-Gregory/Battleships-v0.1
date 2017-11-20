@@ -1,7 +1,7 @@
 
-public class player extends competitor{
+public class Player extends Competitor {
 
-	public player() {
+	public Player() {
 		// TODO Auto-generated constructor stub
 	}
 
