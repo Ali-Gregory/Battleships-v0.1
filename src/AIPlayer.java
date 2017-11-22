@@ -10,7 +10,7 @@ public class AIPlayer extends Competitor {
 		int randNum = rand.nextInt(aiNames.length-1);
 		this.name = aiNames[randNum];
 		
-		System.out.println("AI player's name is " + this.name);
+		//System.out.println("AI player's name is " + this.name);
 	}
 
 }
